@@ -1,2 +1,2 @@
 # first-time
-firstadneventure on github
+first adventure on github
